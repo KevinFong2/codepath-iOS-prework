@@ -26,27 +26,27 @@ GIF created with Kap
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## App Brainstorming (Step 4)
+## App Brainstorming
 
 Reddit
-*Seeing thousands of user submitted post on certain topics
-*Being able to see people commenting on the post or answering the post on certain questions
-*Being able to join subreddits that I enjoy and scroll through them for a long time 
+* Seeing thousands of user submitted post on certain topics
+* Being able to see people commenting on the post or answering the post on certain questions
+* Being able to join subreddits that I enjoy and scroll through them for a long time 
 
 CamScanner
-*Being able to scan my work on paper into pdf and more readable compared to a camera
-*I can crop the notes I want to be scanned
-*I can share scanned notes to myself so I can upload them as pdf
+* Being able to scan my work on paper into pdf and more readable compared to a camera
+* I can crop the scanned notes to only show certain notes
+* I can share scanned notes to myself so I can upload them as pdf
 
 Google Maps
-*I can see what trains option I can take to get to my location
-*I can see what shops are around me if I want to explore a location
-*The user UI is easy to understand and I can navigate through the app easily
+* I can see what trains option I can take to get to my location
+* I can see what shops are around me if I want to explore a location
+* The user UI is easy to understand and I can navigate through the app easily
 
 Discord
-*I can text and sends GIF to my friends privately through discord
-*Being able to join servers to chat with other people that you have never met before
-*I can add bots to my own server, like a music bot or game bot to spice up a discord server
+* I can text and sends GIF to my friends privately through discord
+* Being able to join servers to chat with other people that you have never met before
+* I can add bots to my own server, like a music bot or game bot to spice up a discord server
 
 An app idea that I have in mind would be first called GameBrain as this app would have many features related to video games. One of the features that this app
 would have is video game news, it's hard to keep up with video game news these days as there are a lot of games coming out these days. As a gamer you don't
